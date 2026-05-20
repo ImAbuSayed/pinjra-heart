@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/pinjra-heart/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Pinjra Heart](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pinjra-heart/) |
+| **Get License** | [License this song: Pinjra Heart](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pinjra-heart/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `80a7c1cb4e756a51b95dd12488278bee7acfc6f1a0e434c3bae9fe31a70b75e5` |
 | **Timestamp** | May 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

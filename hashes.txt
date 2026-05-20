@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Pinjra Heart
+
+This log tracks the cryptographic history and versioning for the song **Pinjra Heart** (pinjra-heart).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-20T22:27:26.664516 | `v1` | `80a7c1cb4e756a51b95dd12488278bee7acfc6f1a0e434c3bae9fe31a70b75e5` | `8eb6d181981688ce1e3684d49f9b80962ad3a8faf9671c795400d7ce30eb05a1` | `2026-05-20_pinjra-heart-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
