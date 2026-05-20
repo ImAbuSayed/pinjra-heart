@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/pinjra-heart/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Pinjra Heart](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pinjra-heart/) |
+| **Get License** | [Music Rights & Licensing for Pinjra Heart](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pinjra-heart/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Kaali raat di siyahi 'ch shining so bright,
+> Main labhda haan tainu in the neon light.
+> Tere bullan di khamoshi chhupandi desire,
+> Main balda haan ishq 'ch like a midnight fire.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
